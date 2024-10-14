@@ -1,0 +1,4 @@
+#Tue Oct 01 11:28:52 MSK 2024
+base.0=C\:\\Users\\user\\StudioProjects\\mobile_kurs2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
